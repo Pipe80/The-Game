@@ -1,0 +1,10 @@
+# Godot 4
+.godot/
+# Buildit / exportit (tee poikkeus jos haluat julkaista web-buildin)
+build/
+export/
+*.import
+
+# Käyttöjärjestelmän roinat
+.DS_Store
+Thumbs.db
